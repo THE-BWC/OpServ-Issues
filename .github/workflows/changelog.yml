@@ -1,0 +1,15 @@
+﻿name: Changelog
+on:
+  issues:
+    types:
+      - closed
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: patrickpedersen/autoChangelog@main
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        changelog_file: CHANGELOG.md
