@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: patrickpedersen/autoChangelog@main
+    - uses: docker://patrickpedersen/autochangelog@latest
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         changelog_file: CHANGELOG.md
