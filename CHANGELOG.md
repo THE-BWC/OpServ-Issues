@@ -2,6 +2,7 @@
 
 #### Fixes
 
+* [BUG] - SC RASP training student material not displayed when clicked on from opserv 'home'. Issue [#31](https://github.com/THE-BWC/OpServ-Issues/issues/31) by [@von-Benette](https://github.com/von-Benette).
 * Operation AAR, Op Leader randomly dissapears from AAR. Issue [#3](https://github.com/THE-BWC/OpServ-Issues/issues/3) by [@PatrickPedersen](https://github.com/PatrickPedersen).
 
 ### 17 March 2024
