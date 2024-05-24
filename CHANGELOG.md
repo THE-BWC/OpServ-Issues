@@ -1,5 +1,9 @@
 ### Latest Changes
 
+#### Features
+
+* Should we have a dedicated "operation" page to display past operation data?. Issue [#28](https://github.com/THE-BWC/OpServ-Issues/issues/28) by [@Goltred](https://github.com/Goltred).
+
 #### Fixes
 
 * [BUG] - SC RASP training student material not displayed when clicked on from opserv 'home'. Issue [#31](https://github.com/THE-BWC/OpServ-Issues/issues/31) by [@von-Benette](https://github.com/von-Benette).
