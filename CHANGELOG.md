@@ -2,6 +2,7 @@
 
 #### Features
 
+* [FEATURE] - Automation of Fruit Salad in Signatures. Issue [#36](https://github.com/THE-BWC/OpServ-Issues/issues/36) by [@PatrickPedersen](https://github.com/PatrickPedersen).
 * Should we have a dedicated "operation" page to display past operation data?. Issue [#28](https://github.com/THE-BWC/OpServ-Issues/issues/28) by [@Goltred](https://github.com/Goltred).
 
 #### Fixes
