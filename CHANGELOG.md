@@ -7,6 +7,7 @@
 
 #### Fixes
 
+* [BUG] - Pre-Op Squad Assignments breaks up Squads in Home Page Op UI. Issue [#39](https://github.com/THE-BWC/OpServ-Issues/issues/39) by [@Q2M-x](https://github.com/Q2M-x).
 * [BUG] - AAR attendance/squad UI overlaps itself on Android.. Issue [#34](https://github.com/THE-BWC/OpServ-Issues/issues/34) by [@jarnehed](https://github.com/jarnehed).
 * [BUG] - Custom roster report query returning duplicate entries. Issue [#32](https://github.com/THE-BWC/OpServ-Issues/issues/32) by [@tkhu1](https://github.com/tkhu1).
 * [BUG] - SC RASP training student material not displayed when clicked on from opserv 'home'. Issue [#31](https://github.com/THE-BWC/OpServ-Issues/issues/31) by [@von-Benette](https://github.com/von-Benette).
